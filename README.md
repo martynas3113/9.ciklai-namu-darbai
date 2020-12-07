@@ -1,2 +1,2 @@
-Ciklai-namu-darbai
+# Ciklai-namu-darbai
 Javascript cycles homework
